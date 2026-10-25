@@ -1,0 +1,10 @@
+.metadata/
+bin/
+target/
+.settings/
+.project
+.classpath
+*.class
+
+.DS_Store
+Thumbs.db
